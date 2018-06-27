@@ -1,0 +1,2 @@
+# freshconfig
+Freshdesk Portal configuration.
